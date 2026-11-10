@@ -9,7 +9,7 @@
 - Email: 26ai.quyenlv@vinuni.edu.vn
 - Lớp: L2A
 - Link repo bài làm: https://github.com/VanQuyen11/K5-L2A-Day02-LuongVanQuyen-2A202603226-ObjectDetection
-- Link Colab đã chạy: https://colab.research.google.com/github/VanQuyen11/K5-L2A-Day02-LuongVanQuyen-2A202603226-ObjectDetection/blob/main/notebooks/day2_annotation_to_yolo.ipynb#scrollTo=6f78b880
+- Link Colab đã chạy: https://colab.research.google.com/github/VanQuyen11/K5-L2A-Day02-LuongVanQuyen-2A202603226-ObjectDetection/blob/main/notebooks/day2_annotation_to_yolo.ipynb#scrollTo=qF-OTeRcmAxz
 
 ## 2. Schema và mini guideline
 
